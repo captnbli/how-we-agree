@@ -1,4 +1,4 @@
-**Genesis Note**
+## Genesis Note
 
 This project does not exist to rule, persist, or win.
 
