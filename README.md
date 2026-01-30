@@ -42,3 +42,24 @@ If it fades quietly because it is no longer useful, that is an acceptable outcom
 
 A system that must be obeyed has already failed.
 A system that can be left is finally honest.
+
+---
+
+## Usage (Proof of Concept)
+
+What follows is a minimal proof of concept. It is illustrative, not normative.
+
+This repository includes a small browser-based example using a SOLID Pod.
+
+To run it locally:
+
+```bash
+npm create vite@latest solid-poc -- --template react-ts
+cd solid-poc
+npm install
+npm install @inrupt/solid-client @inrupt/solid-client-authn-browser
+npm run dev
+
+You will need a SOLID Pod and identity provider to use the PoC.
+
+This client is one possible implementation concept. Others are expected.
