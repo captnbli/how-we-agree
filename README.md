@@ -40,8 +40,19 @@ It may disappear.
 
 If it fades quietly because it is no longer useful, that is an acceptable outcome.
 
-A system that must be obeyed has already failed.
-A system that can be left is finally honest.
+A system that must be obeyed **has already failed**.
+A system that can be left is **finally honest**.
+
+Participation here expresses opinion, not mandate.
+
+Opinions may be viewed globally or scoped to a political community, depending on context.
+
+When decisions confer coercive authority, legitimacy must come from the relevant political community through its own constitutional processes.
+
+This system grants no such authority.
+
+Its role is to make agreement, disagreement, and alignment visible — nothing more.
+
 
 ---
 
